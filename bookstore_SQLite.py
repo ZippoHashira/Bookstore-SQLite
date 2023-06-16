@@ -1,4 +1,4 @@
-# Import module 'sqlite3'
+# Import module 'sqlite3'.
 import sqlite3
 
 # Creates or opens a file called 'ebookstore' with SQlite 3 DB.
